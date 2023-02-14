@@ -1,5 +1,5 @@
 # Salario= int(input("¿Cuanto cobras?"))
-# print(f"Cobrarias {Salario*10} si fueras experto en python 🤣"
+# print(f"Cobrarias {Salario*10} si fueras experto en python 🤣")
 
 # Valor1 = int(input("Ingrese el primer valor a sumar. "))
 # Valor2= int(input("Ingrese el segundo valor a sumar. "))
